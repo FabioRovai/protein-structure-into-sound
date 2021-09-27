@@ -15,6 +15,14 @@ This implementation aims to be a useful tool to attribute sounds quality to ever
 
 <h1>Step 1:</h1> Download a list of PDB files from the Dunbrack lab
 
+Example format : 
+
+| IDs           | length        | Exptl.        | resolution    | R-factor      | FreeRvalue    |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 3NIRA         | 46            | XRAY          | 0.48          | 0.13          | 1.00          |
+
+
+
 
 <h1>Step 2:</h1> Choose your PDB file directly from RCSB PDB
 
