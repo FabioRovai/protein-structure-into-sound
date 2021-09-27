@@ -21,4 +21,4 @@ Step 4: Calculate Volume of Convex Hull, Farthest Distance using Rotating Calipe
 
 Step 5: Add characteristics to a Combinational Wave
 
-Step 6: Further experimentations
+Step 6: Try our further work section to proof software scalability
