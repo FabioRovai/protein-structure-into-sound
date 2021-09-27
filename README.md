@@ -19,7 +19,7 @@ This implementation aims to be a useful tool to attribute sounds quality to ever
 <h1>Step 2:</h1> Choose your PDB file directly from RCSB PDB
 
 
-<h1>Step 3:</h1> Calculate Convex hull, Max Width or farthest distance from the centre
+<h1>Step 3:</h1> Calculate Convex hull, Max Width or Farthest Distance from the centre
 
 
 <h1>Step 4:</h1> Calculate Volume of Convex Hull, Farthest Distance using Rotating Calipers and Calculate the number of positive and negative points on each axis
