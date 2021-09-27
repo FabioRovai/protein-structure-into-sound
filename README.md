@@ -4,21 +4,28 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Protein Structure into Sound (PSS)
 Notebook in collaboration with Ford Combs
 
 
+This is a tutorial/implementation of a novel technique to transform protein sequences into sounds. 
 
-This is a tutorial/implementation of of a novel technique to transform protein sequence into sounds. This implementation aims to be an useful tool to attribuite sounds quality to every specific protein ID. Here is the code that uses geometrical transformaions to generates this sinusoid IDs.
 
-Step 1: Download a list of PDB files from the dunbrack lab.
+This implementation aims to be a useful tool to attribute sounds quality to every specific protein ID. Here is the code that uses geometrical transformations to generates sinusoid IDs
 
-Step 2: Choose your PDB file directly from RCSB PDB
 
-Step 3: Calculate Convex hull, Max Width or farthest distance from the center
+<h1>Step 1:</h1> Download a list of PDB files from the Dunbrack lab
 
-Step 4: Calculate Volume of Convex Hull, Farthest Distance using Rotating Calipers and Calculate number of positive and negative points on each axis.
 
-Step 5: Add characteristics to a Combinational Wave
+<h1>Step 2:</h1> Choose your PDB file directly from RCSB PDB
 
-Step 6: Try our further work section to proof software scalability
+
+<h1>Step 3:</h1> Calculate Convex hull, Max Width or farthest distance from the centre
+
+
+<h1>Step 4:</h1> Calculate Volume of Convex Hull, Farthest Distance using Rotating Calipers and Calculate the number of positive and negative points on each axis
+
+
+<h1>Step 5:</h1> Add characteristics to a Combinational Wave
+
+
+<h1>Step 6:</h1> Try our further work section to prove software scalability
