@@ -29,3 +29,54 @@ This implementation aims to be a useful tool to attribute sounds quality to ever
 
 
 <h1>Step 6:</h1> Try our further work section to prove software scalability
+
+
+<h1>Audio Links</h1>
+
+<h2>1QOWB</h2>
+
+Geometric: https://soundcloud.com/fabio-rovai/1qowbgeometric/s-bBWgCSxMDht
+
+Twelfth Root: https://soundcloud.com/fabio-rovai/1qowb-12/s-OZr18gDybEy
+
+Highest Frequency: https://soundcloud.com/fabio-rovai/1qowb-high/s-pdkaoL69HYw
+
+<h2>3CALD</h2>
+
+Geometric: https://soundcloud.com/fabio-rovai/3caldgometric/s-7vljmSNDAeU
+
+Twelfth Root: https://soundcloud.com/fabio-rovai/3cald-12/s-W7BZOrD4J1t
+
+Highest Frequency: https://soundcloud.com/fabio-rovai/3caldhigh/s-gdanARqXvZE
+
+<h2>5NW3A</h2>
+
+Geometric: https://soundcloud.com/fabio-rovai/5nw3a-geo/s-iaIr4O1UcDw
+
+Twelfth Root: https://soundcloud.com/fabio-rovai/5nw3a-12/s-148d19VCjZs
+
+Highest Frequency: https://soundcloud.com/fabio-rovai/5nw3a-high/s-U6cYMqdvpdo
+
+<h2>6SBAB</h2>
+
+Geometric: https://soundcloud.com/fabio-rovai/6sbabgeo/s-IHrzG8bDMCt
+
+Twelfth Root: https://soundcloud.com/fabio-rovai/6sbab-12/s-vyA9keH31Jr
+
+Highest Frequency: https://soundcloud.com/fabio-rovai/6sbabhigh/s-42egzQBzIQ0 
+
+<h2>6S2MA</h2>
+
+Geometric: https://soundcloud.com/fabio-rovai/6s2ma-geo/s-sA6L78R2cCP
+
+Twelfth Root: https://soundcloud.com/fabio-rovai/twelve-tone-comb-wave/s-VOYeCrQQmYH
+
+Highest Frequency: https://soundcloud.com/fabio-rovai/6s2mahigh/s-eejsK0SHG9A 
+
+<h2>3X2MA</h2>
+
+Geometric: https://soundcloud.com/fabio-rovai/3x2ma-geo/s-jzSefJPldVh
+
+Twelfth Root: https://soundcloud.com/fabio-rovai/twelve-tone-comb-wave-1/s-AOd5l0SBaCc
+
+Highest Frequency: https://soundcloud.com/fabio-rovai/3x2mahigh/s-ZQq8irD6QEg
