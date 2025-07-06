@@ -1,3 +1,7 @@
+NOTE: This account is deprecated but remains active only to display my MSc thesis project. V2 is the most up-to-date.
+
+
+
 # Protein Structure into Sound <img src="https://media.giphy.com/media/wLsePI5c7koHGj699C/giphy.gif" width="60" height="60"/>
 
 (if !wget link is broken please use this instead https://raw.githubusercontent.com/FabioRovai/protein-structure-into-sound/main/PDB.txt)
